@@ -5,8 +5,12 @@ DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,nebula-media.org
 
 #起点站公费
-DOMAIN-SUFFIX,vfing.de
+DOMAIN-SUFFIX,qdz-de.vfing.de
 DOMAIN-SUFFIX,cdn.qzuie.top
 
 #SaturDay
 DOMAIN-SUFFIX,saturday.video
+
+#墨云阁
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN-SUFFIX,emby-myg-de.vfing.de
