@@ -1,5 +1,6 @@
-#!name=bilibili
-#!desc=1080P高码率+4K畫質(番劇和影視除外)
+#!name=Bilibili 解锁 1080P+4K
+#!desc=解锁 B站 1080P 高码率 + 4K（不含番剧和影视）
+#!author=移植自 ddgksf2013 项目
 #!system=ios
 
 [Script]
